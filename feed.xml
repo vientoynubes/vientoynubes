@@ -3,39 +3,10 @@
     <title>Viento y nubes</title>
     <link href="https://vientoynubes.github.io/vientoynubes/feed.xml" rel="self" />
     <link href="https://vientoynubes.github.io/vientoynubes" />
-    <updated>2019-01-20T11:57:26+01:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
         <name>Pablo</name>
     </author>
     <id>https://vientoynubes.github.io/vientoynubes</id>
 
-    <entry>
-        <title>Ejemplo de post</title>
-        <author>
-            <name>Pablo</name>
-        </author>
-        <link href="https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html"/>
-        <id>https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html</id>
-            <category term="Viajes"/>
-
-        <updated>2019-01-20T11:17:08+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://vientoynubes.github.io/vientoynubes/media/posts/1/DSC_0519.JPG" alt="Saltops de ski en Oberstdorf" />
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu sem quis sem tincidunt vestibulum ac et diam. In quis ornare nisi. Maecenas nulla leo, congue in sollicitudin eget, laoreet a purus. Aenean sollicitudin consequat risus vel eleifend. Proin malesuada eleifend vulputate. In sed aliquam&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://vientoynubes.github.io/vientoynubes/media/posts/1/DSC_0519.JPG" alt="Saltops de ski en Oberstdorf" />
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu sem quis sem tincidunt vestibulum ac et diam. In quis ornare nisi. Maecenas nulla leo, congue in sollicitudin eget, laoreet a purus. Aenean sollicitudin consequat risus vel eleifend. Proin malesuada eleifend vulputate. In sed aliquam orci. In quis tincidunt purus. Suspendisse ex libero, rutrum et blandit eu, porttitor quis augue.</p>
-<p>Morbi ex velit, aliquet a dui ultrices, maximus iaculis quam. Quisque quis metus et neque bibendum eleifend. Vivamus varius lobortis malesuada. Phasellus at iaculis risus, vitae pretium dui. Nam dignissim, urna et volutpat fringilla, nibh erat iaculis tellus, vitae elementum ipsum elit id urna. Sed ut scelerisque arcu. Donec venenatis rhoncus hendrerit. Quisque efficitur venenatis ex eget malesuada. Aliquam non eleifend nulla, ac feugiat sem.</p>
-<p><img class="post__image--center" src="https://vientoynubes.github.io/vientoynubes/media/posts/1/sd-fuel-mod.png" alt="Ejemplo de imagen" width="512" height="512"></p>
-<p>Aliquam gravida semper tellus a vulputate. Nullam bibendum leo fermentum dui suscipit, et vestibulum felis lobortis. Cras eu nisi ut metus dignissim consectetur vitae vel dui. Morbi neque justo, eleifend nec lobortis a, fermentum scelerisque neque. Praesent vehicula, sem quis consequat venenatis, odio ex gravida lacus, a sagittis lacus tortor ornare sem. Nullam vel metus in risus condimentum cursus. Phasellus laoreet vulputate mi.</p>
-<p>Donec faucibus tincidunt nunc, eget varius orci gravida a. Maecenas est sem, venenatis id nunc id, sodales tincidunt arcu. Morbi id dolor quis risus facilisis pulvinar et id dolor. Duis id tellus pulvinar, tincidunt enim a, pellentesque velit. Nam dapibus magna non risus consectetur scelerisque eu nec leo. Sed maximus sapien ac sem aliquet fringilla. Maecenas volutpat fringilla orci. Maecenas id lobortis ipsum. Donec consectetur, nunc at ultricies venenatis, dui augue finibus felis, at eleifend nulla eros quis sem. Vestibulum feugiat placerat odio, ac fermentum sapien vehicula mattis. In efficitur scelerisque velit, nec dignissim orci venenatis non. Pellentesque ut nibh at justo mollis vestibulum. Nunc luctus ornare elit, ut rhoncus turpis tincidunt id.</p>
-<p><img class="post__image--center" src="https://vientoynubes.github.io/vientoynubes/media/posts/1/0zYqRcXxFXgr-etir.gif" alt="Un gif" width="800" height="600"></p>
-<p>Suspendisse consectetur elit id diam suscipit, vel varius augue porta. Vestibulum quis nisl bibendum, imperdiet nibh pretium, tincidunt tellus. Donec nec lectus mi. Aenean luctus facilisis est at tempor. Suspendisse hendrerit sed tortor lacinia venenatis. Etiam porta sit amet lectus id rhoncus. Integer ut erat quis neque vulputate gravida a a massa. Mauris a interdum urna. In id justo a mauris aliquet molestie rutrum sit amet nunc. Proin et ante nisl. Quisque pharetra nunc vel venenatis volutpat. Donec malesuada leo a purus vestibulum, sit amet suscipit ligula hendrerit. In luctus lorem quam, eget gravida lorem luctus ut. Nulla cursus sodales enim, sed efficitur eros.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
