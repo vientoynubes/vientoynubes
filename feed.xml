@@ -3,10 +3,36 @@
     <title>Viento y nubes</title>
     <link href="https://vientoynubes.github.io/vientoynubes/feed.xml" rel="self" />
     <link href="https://vientoynubes.github.io/vientoynubes" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-01-20T14:45:09+01:00</updated>
     <author>
         <name>Pablo</name>
     </author>
     <id>https://vientoynubes.github.io/vientoynubes</id>
 
+    <entry>
+        <title>Objetivo del blog</title>
+        <author>
+            <name>Pablo</name>
+        </author>
+        <link href="https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html"/>
+        <id>https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html</id>
+            <category term="Viajes"/>
+
+        <updated>2019-01-20T14:44:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://vientoynubes.github.io/vientoynubes/media/posts/1/DSC_0519.JPG" alt="Saltops de ski en Oberstdorf" />
+                     El objetivo de este blog personal es tener un lugar donde reunir todos los buenos momentos ocurridos con la práctica de algún deporte aéreo. A veces es suficiente con tener una carpeta de fotos y videos con todos esos momentos archivados para poder consultarlos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://vientoynubes.github.io/vientoynubes/media/posts/1/DSC_0519.JPG" alt="Saltops de ski en Oberstdorf" />
+                <p> </p>
+<p> </p>
+<p>El objetivo de este blog personal es tener un lugar donde reunir todos los buenos momentos ocurridos con la práctica de algún deporte aéreo. A veces es suficiente con tener una carpeta de fotos y videos con todos esos momentos archivados para poder consultarlos de vez en cuando, pero otras veces me gustaría poder guardar coordenadas, nombres de escuelas, campings y sitios de interés donde he estado con el fin de poder volver en un futuro o simplemente para poder recordar con más exactitud como sucedió todo.</p>
+<p>Son muchas las veces que vuelvo la vista atrás para recordar esos momentos vividos en el aire, con la familia, con los amigos, en solitario o incluso con gente que no conoces de nada. Al volver a ver esas fotos y esos videos puedo recordar exáctamente cómo me sentía en ese momento, flotando en el aire, disfrutando del aire y de las nubes.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>

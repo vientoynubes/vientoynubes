@@ -9,5 +9,21 @@
         "name": "Pablo"
     },
     "items": [
+        {
+            "id": "https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html",
+            "url": "https://vientoynubes.github.io/vientoynubes/ejemplo-de-post.html",
+            "title": "Objetivo del blog",
+            "summary": " El objetivo de este blog personal es tener un lugar donde reunir todos los buenos momentos ocurridos con la práctica de algún deporte aéreo. A veces es suficiente con tener una carpeta de fotos y videos con todos esos momentos archivados para poder consultarlos&hellip;",
+            "content_html": "<p> </p>\n<p> </p>\n<p>El objetivo de este blog personal es tener un lugar donde reunir todos los buenos momentos ocurridos con la práctica de algún deporte aéreo. A veces es suficiente con tener una carpeta de fotos y videos con todos esos momentos archivados para poder consultarlos de vez en cuando, pero otras veces me gustaría poder guardar coordenadas, nombres de escuelas, campings y sitios de interés donde he estado con el fin de poder volver en un futuro o simplemente para poder recordar con más exactitud como sucedió todo.</p>\n<p>Son muchas las veces que vuelvo la vista atrás para recordar esos momentos vividos en el aire, con la familia, con los amigos, en solitario o incluso con gente que no conoces de nada. Al volver a ver esas fotos y esos videos puedo recordar exáctamente cómo me sentía en ese momento, flotando en el aire, disfrutando del aire y de las nubes.</p>",
+            "image": "https://vientoynubes.github.io/vientoynubes/media/posts/1/DSC_0519.JPG",
+            "author": {
+                "name": "Pablo"
+            },
+            "tags": [
+                   "Viajes"
+            ],
+            "date_published": "2019-01-20T11:17:08+01:00",
+            "date_modified": "2019-01-20T14:44:55+01:00"
+        }
     ]
 }
